@@ -1,0 +1,1 @@
+composer create-project symfony/skeleton /var/www/html ^5
